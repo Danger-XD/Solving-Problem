@@ -1,2 +1,2 @@
-# Solving-Problems
-Here you can find all the solution of computer only for softwares  
+# Solved-Problems
+Here you can find all the solution of computer problems (Softwares only)  
