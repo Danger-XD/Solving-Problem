@@ -1,0 +1,24 @@
+Problem: Trying to start xampp mysql but its not starting....
+
+And showing this message"Error: MySQL shutdown unexpectedly.
+
+This may be due to a blocked port, missing dependencies,
+
+improper privileges, a crash, or a shutdown by another method.
+
+Press the Logs button to view error logs and check
+
+the Windows Event Viewer for more clues
+
+If you need more help, copy and post this
+
+entire log window on the forums".
+
+Solution->1.Open 'command prompt' and type 'services.msc'.
+2.A service panel will be opened within 5 seconds.
+3.Now search for anyother sql server which is still running.
+4.Select all the sql servers and stop them one by one(There could be more than one).
+5.Finally, refresh your computer and start MySQL.
+6.Enjoy 
+
+Follow for More Solutions
